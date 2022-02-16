@@ -1,0 +1,19 @@
+{
+  "name": "aws-appsync-and-amplify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzizulTareq/AWS-AppSync-and-Amplify.git"
+  },
+  "author": "Tareq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzizulTareq/AWS-AppSync-and-Amplify/issues"
+  },
+  "homepage": "https://github.com/AzizulTareq/AWS-AppSync-and-Amplify#readme"
+}
