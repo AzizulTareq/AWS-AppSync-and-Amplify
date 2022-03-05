@@ -1,0 +1,25 @@
+{
+  "name": "aws-appsync-and-amplify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzizulTareq/AWS-AppSync-and-Amplify.git"
+  },
+  "author": "Tareq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzizulTareq/AWS-AppSync-and-Amplify/issues"
+  },
+  "homepage": "https://github.com/AzizulTareq/AWS-AppSync-and-Amplify#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "body-parser-graphql": "^1.1.0",
+    "express": "^4.17.3"
+  }
+}
